@@ -9,7 +9,6 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: github.event.repository.fork == false
     steps:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
@@ -26,8 +25,9 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: apt-get install pngquant
-      - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: mkdocs gh-deploy --force
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    - run: |
+          pip install mkdocs-material
+          pip install mkdocs-static-i18n
+          pip install mkdocs-glightbox
+          
+    - run: mkdocs gh-deploy --force
