@@ -25,9 +25,9 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-    - run: |
+      - run: |
           pip install mkdocs-material
           pip install mkdocs-static-i18n
           pip install mkdocs-glightbox
           
-    - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force
