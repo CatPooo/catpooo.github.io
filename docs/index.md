@@ -20,7 +20,7 @@ hide:
 
 
 
-<h2 style="text-align: center;">Catpoo is a powerful, lightning fast and censorship resistant vpn.</h2>
+<h2 style="text-align: center;">猫屎加速 is a powerful, lightning fast and censorship resistant vpn.</h2>
 
 
 <p align="center">
