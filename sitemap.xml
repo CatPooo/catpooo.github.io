@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://catpooo.github.io/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/docs/Installation/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/Installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/Installation/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/docs/Privacy/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/Privacy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/Privacy/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/docs/TermsOfService/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/TermsOfService/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/TermsOfService/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/zh/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/zh/docs/Installation/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/Installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/Installation/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/zh/docs/Privacy/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/Privacy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/Privacy/"/>
+    </url>
+    <url>
+        <loc>https://catpooo.github.io/zh/docs/TermsOfService/</loc>
+        <lastmod>2024-01-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://catpooo.github.io/zh/docs/TermsOfService/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://catpooo.github.io/docs/TermsOfService/"/>
+    </url>
+</urlset>
